@@ -1,0 +1,2 @@
+# Relacion_hidrologica
+l presente Notebook permite, a partir de una serie de datos climáticos mensuales, descargados de la herramienta POWER NASA https://power.larc.nasa.gov/data-access-viewer/  poder calcular: - Gráfico descriptivo de temperatura  - Cálculo del ETo por el método de Hargreaves - Graficar una gráfico de relación hidrólogica (ETO &amp; Precipitación por mes)  Se sugiero el siguiente video para observar el proceso de descarga de datos de la herramienta de la nasa https://youtu.be/afRYneIQWbo 
